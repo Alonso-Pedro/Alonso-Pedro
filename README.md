@@ -5,6 +5,11 @@
 🌱 Sempre estudando e buscando aprender ainda mais.   
 🌎 Inglês intermediário / avançado.   
 
+<p align="center">
+  <img src="./img/gengar.gif" width="100">
+</p>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -36,7 +41,3 @@
 </div>
 
 </details>
-
-<p align="center">
-  <img src="./img/gengar.gif" width="250">
-</p>
