@@ -1,4 +1,7 @@
 ## Olá, sou Pedro Alonso!
+
+---
+
 📚Sou estudante de ciências da computação na Universidade de Fortaleza.   
 💡 Gosto de aprender coisas novas.  
 💻 Trabalho com HTML, CSS, JavaScript e React no front-end, e Node.js e Java no back-end.    
@@ -9,6 +12,7 @@
   <img src="./img/gengar.gif" width="100">
 </p>
 
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,8 +24,9 @@
   <img align="center" alt="Pedro-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-
-  <details>
+  ##
+  
+<details>
 <summary>🧠 Outros conhecimentos</summary>
 <br>
 
