@@ -2,6 +2,7 @@
 📚Sou estudante de ciências da computação na Universidade de Fortaleza.   
 💡 Gosto de aprender coisas novas.  
 💻 Trabalho com HTML, CSS, JavaScript e React no front-end, e Node.js e Java no back-end.    
+🌱 Sempre estudando e buscando aprender ainda mais.   
 🌎 Inglês intermediário / avançado.   
 
 <div style="display: inline_block"><br>
@@ -12,6 +13,7 @@
     <img align="center" alt="pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
+  <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 ##
 
