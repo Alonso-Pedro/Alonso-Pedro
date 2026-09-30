@@ -9,7 +9,7 @@
 🌎 Inglês intermediário / avançado.   
 
 <p align="center">
-  <img src="./img/gengar.gif" width="100">
+  <img src="./img/mimikyu.gif" width="90">
 </p>
 
 ---
